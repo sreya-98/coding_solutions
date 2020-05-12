@@ -17,7 +17,6 @@ Example 3:
 Input: ransomNote = "aa", magazine = "aab"
 Output: true"""
 
-python solution:-
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         for i in ransomNote:
