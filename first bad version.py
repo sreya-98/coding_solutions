@@ -14,7 +14,7 @@ call isBadVersion(4) -> true
 
 Then 4 is the first bad version. """
 
-solution in python 
+
 
 class Solution:
     def firstBadVersion(self, n):
